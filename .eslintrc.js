@@ -1,0 +1,3 @@
+extends:[
+    'pulgin:prettier/recommended'
+]
